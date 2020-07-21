@@ -1,0 +1,43 @@
+{
+  "name": "project_expert_proect",
+  "version": "1.0.0",
+  "description": "This is a site for a company that deals with construction expertise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.18.0",
+    "npm": "6.14.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify-es": "^2.0.0",
+    "jquery": "^3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimNovoseletskiy/name"
+  },
+  "author": "Novoseletskiy Vadim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimNovoseletskiy/name"
+  },
+  "homepage": "https://github.com/VadimNovoseletskiy/git_ExpertBud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1",
+    "npm": "^6.14.4"
+  }
+}

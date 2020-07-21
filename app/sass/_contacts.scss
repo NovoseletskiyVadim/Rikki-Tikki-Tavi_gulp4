@@ -1,0 +1,42 @@
+.nav-table{
+    color: red;
+}
+
+.contacts{
+    color:#6F6F6F;
+
+    .googleMaps{
+        iframe{
+            width: 90%;
+            height:450px;
+        }
+    }
+
+    .adress{
+        width: 90%;
+        display: inline-block;
+
+        h2{
+            font-size: 1.8em;
+            margin:0.4em 0 0.4em 0; 
+        }
+
+        p{
+            font-size: 1.4em; 
+        }
+
+        i.fa-phone{
+            transform: rotate(160deg);
+        }
+      
+    }
+    
+}
+
+
+
+
+
+iframe.maps{
+   width: 90%;
+}
